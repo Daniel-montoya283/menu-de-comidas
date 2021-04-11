@@ -10,9 +10,9 @@
 <body class="body-dias">
     <header>
         <nav class="nav-dias">
-            <a href="index.html">INICIO</a>
-            <a href="postres.html">POSTRES</a>
-            <a href="comidasespeciales.html">COMIDAS ESPECIALES</a>
+            <a href="index.php">INICIO</a>
+            <a href="postres.php">POSTRES</a>
+            <a href="comidasespeciales.php">COMIDAS ESPECIALES</a>
         </nav>
     </header>
     <main>
@@ -33,13 +33,13 @@
         <section>
             <h1 class="titulo2">MENU DE CADA DIA</h1>
             <nav class="navegacion2">
-                <a href="lunes.html">LUNES</a>
+                <a href="lunes.php">LUNES</a>
                 <a href="martes.html">MARTES</a>
-                <a href="miercoles.html">MIERCOLES</a>
-                <a href="jueves.html">JUEVES</a>
-                <a href="viernes.html">VIERNES</a>
-                <a href="sabado.html">SABADO</a>
-                <a href="domingo.html">DOMINGO</a>
+                <a href="miercoles.php">MIERCOLES</a>
+                <a href="jueves.php">JUEVES</a>
+                <a href="viernes.php">VIERNES</a>
+                <a href="sabado.php">SABADO</a>
+                <a href="domingo.php">DOMINGO</a>
             </nav>
         </section>
     </footer>

@@ -11,9 +11,9 @@
     <header class="site-header">
     
         <nav class="navegacion">
-            <a href="index.html">INICIO</a>
-            <a href="postres.html">POSTRES</a>
-            <a href="comidasespeciales.html">COMIDAS ESPECIALES</a>
+            <a href="index.php">INICIO</a>
+            <a href="postres.php">POSTRES</a>
+            <a href="comidasespeciales.php">COMIDAS ESPECIALES</a>
         </nav>
     </header>
      <main>
